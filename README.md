@@ -27,3 +27,7 @@ should not be used. When the page is refreshed, the comments entered will be res
     npm install
     npm run build
     ```
+
+## project link
+
+- __[project-link](https://babatunde50.github.io/promotional-site/#comment)__
