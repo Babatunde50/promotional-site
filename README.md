@@ -14,14 +14,16 @@ It will be made with javascript and the comments entered will be displayed on th
 and the comment you want to delete can be deleted from the page. Database etc. for this section. a tool
 should not be used. When the page is refreshed, the comments entered will be reset.
 
-## 🚀 How to run in development
+## 🚀 How to run 
 
     ```shell
+    npm install
     npm start
     ```
 
 ## How to build
 
     ```shell
+    npm install
     npm run build
     ```
